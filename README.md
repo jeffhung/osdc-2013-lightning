@@ -1,0 +1,1 @@
+This is the sample code that I demonstrated in my lightning talk in OSDC.tw 2013. You can find the slide here: https://speakerdeck.com/jeffhung/httpd-dot-conf-programming.
